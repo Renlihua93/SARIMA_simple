@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/project/ctsa-master/ctsa-sarima-simple/cmake-build-debug/cmake_install.cmake",
+		"C:/project/ctsa-master/ctsa-sarima-simple/cmake-build-debug/src/cmake_install.cmake",
+		"C:/project/ctsa-master/ctsa-sarima-simple/cmake-build-debug/test/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
